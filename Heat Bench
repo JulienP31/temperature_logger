@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Heat Bench
+Comment=Heat Bench SW
+Icon=/home/pi/heatbench.png
+Exec=/home/pi/launch_heatbench.sh
+Type=Application
+Encoding=UTF-8
+Terminal=False
+Categories=None;
