@@ -1,5 +1,5 @@
 # temperature_logger
-Dual temperature sensor data logger
+Dual temperature sensor data logger [Raspberry Pi]
 
 
 
